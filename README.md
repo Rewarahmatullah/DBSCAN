@@ -1,1 +1,2 @@
 # DBSCAN
+DBSCAN (Density-Based Spatial Clustering of Applications with Noise) adalah sebuah algoritma dalam analisis data yang digunakan untuk melakukan klasterisasi atau pengelompokkan pada data berdasarkan kerapatan. Perbedaan antara dbscan dan KMeans adalah pendekatan yang digunakan untuk mengelompokkan data. DBSCAN mengidentifikasi klaster berdasarkan kerapatan, sementara KMeans berusaha memisahkan data menjadi kelompok dengan menggunakan pusat klaster.
